@@ -1,4 +1,5 @@
-# TMI-2
+# TMI-2 An analysis of Activation Values in GPT2-xl and its variant, modFDTGPT2xl
+
 Attachments for TMI #2:  An analysis of Activation Values in GPT2-xl and its variant, modFDTGPT2xl
 
 For the lessWrong post to explain this project, the link is here:
